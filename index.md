@@ -14,7 +14,7 @@ instructor: ["Rich Brey", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:
+eventbrite: 59015596237
 ---
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
