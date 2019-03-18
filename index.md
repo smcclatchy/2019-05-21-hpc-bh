@@ -7,9 +7,9 @@ country: "us"
 language: "en"
 latlng: "44.365336,-68.196283"
 humandate: "May 21, 2018"
-humantime: "9:00 am - 4:00 pm"
-startdate: 2018-10-22
-enddate: 2018-10-22
+humantime: "9:00 am - 3:00 pm"
+startdate: 2019-05-21
+enddate: 2019-05-21
 instructor: ["Rich Brey", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
