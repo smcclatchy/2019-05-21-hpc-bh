@@ -6,10 +6,10 @@ address: "Breezeway Bioinformatics Training Room 1540, Building 1, Unit 5, 600 M
 country: "us"
 language: "en"
 latlng: "44.365336,-68.196283"
-humandate: "May 21, 2018"
+humandate: "June 10, 2019"
 humantime: "9:00 am - 3:00 pm"
-startdate: 2019-05-21
-enddate: 2019-05-21
+startdate: 2019-06-10
+enddate: 2019-06-10
 instructor: ["Rich Brey", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
