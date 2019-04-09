@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
-venue: "The Jackson Laboratory"
+venue: "Introduction to High Performance Computing"
 address: "Breezeway Bioinformatics Training Room 1540, Building 1, Unit 5, 600 Main St, Bar Harbor ME"
 country: "us"
 language: "en"
