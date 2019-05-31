@@ -10,8 +10,8 @@ humandate: "June 10, 2019"
 humantime: "9:00 am - 3:00 pm"
 startdate: 2019-06-10
 enddate: 2019-06-10
-instructor: ["Rich Brey", "Sue McClatchy"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Sue McClatchy", "Rich Brey", "Jason Macklin"]
+helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 59015596237
