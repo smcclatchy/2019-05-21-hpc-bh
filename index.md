@@ -12,6 +12,8 @@ startdate: 2019-06-10
 enddate: 2019-06-10
 instructor: ["Rich Brey", "Sue McClatchy", "Jason Macklin"]
 helper: ["Shane Sanders"]
+instructor: ["Sue McClatchy", "Rich Brey", "Jason Macklin"]
+helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:  https://pad.carpentries.org/2019-06-10-hpc-bh
 eventbrite: 59015596237
