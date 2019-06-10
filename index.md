@@ -10,10 +10,10 @@ humandate: "June 10, 2019"
 humantime: "9:00 am - 3:00 pm"
 startdate: 2019-06-10
 enddate: 2019-06-10
-instructor: ["Rich Brey", "Sue McClatchy"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Rich Brey", "Sue McClatchy", "Jason Macklin"]
+helper: ["Shane Sanders"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  https://pad.carpentries.org/2019-06-10-hpc-bh
 eventbrite: 59015596237
 ---
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
